@@ -1,1 +1,1 @@
-# Cyberbullying Detection Using Python & Machine Learning
+# SpeakSafe a cyberbullying detection app using Machine Learning
